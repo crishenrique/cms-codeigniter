@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/08/2017, 16:47:34
+    Author     : Charles
+*/
+
+#preloader {
+	position   : fixed;
+	top        : 0;
+	left       : 0;
+	right      : 0;
+	bottom     : 0;
+	background : #ECF0F1;
+	z-index    : 1000;
+	height     : 100%;
+	width      : 100%;
+}
+
+#status {
+	width      : 920px;
+	height     : 532px;
+	position   : absolute;
+	left       : 50%;
+	top        : 50%;
+	margin     : -266px 0 0 -460px;
+	background : url('../images/Ripple.svg') center no-repeat;
+}
+
+.azul_bebe {
+	color : #2ddaf9 !important
+}
+
+.laranja_bebe {
+	color : #f9aa2d !important
+}
+
+.verde_bebe {
+	color : #52f85d !important
+}

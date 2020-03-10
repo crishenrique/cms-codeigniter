@@ -1,0 +1,40 @@
+<?php
+
+    echo "Esta mensagem foi enviada pelo site loremipsum - João Pessoa - Formulário de Pré-Matrícula!\n";
+
+    echo "Nome: $nome";
+    echo "\n";
+    echo "cpf: $cpf";
+    echo "\n";
+    echo "Nascimento: $nascimento";
+    echo "\n";
+    echo "rg: $rg";
+    echo "\n";
+    echo "Crm: $crm";
+    echo "\n";
+    echo "Celular: $celular";
+    echo "\n";
+    echo "Telefone: $telefone";
+    echo "\n";
+    echo "Profissao: $profissao";
+    echo "\n";
+    echo "Especializacao: $especializacao";
+    echo "\n";
+    echo "Localtrabalho: $localtrabalho";
+    echo "\n";
+    echo "Email: $email";
+    echo "\n";
+    echo "Cep: $cep";
+    echo "\n";
+    echo "Rua: $rua";
+    echo "\n";
+    echo "Rua: $numero";
+    echo "\n";
+    echo "Bairro: $bairro";
+    echo "\n";
+    echo "Cidade: $cidade";
+    echo "\n";
+    echo "Estado: $estado";
+    echo "\n";
+    echo "Mensagem: $mensagem";
+    echo "\n";
